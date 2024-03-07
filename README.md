@@ -1,4 +1,4 @@
-# Web-Scraping Project: Mars Exploration Data Collection
+# Web-Scraping Challenge
 
 ## Overview
 
